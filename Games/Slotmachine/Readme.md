@@ -1,5 +1,5 @@
 Die neuen Spiele sind im Zusammenhang mit der Entwicklung des Gamepads und des zugeh&ouml;rigen Bootloaders entstanden. Ich werde einige hier
-ausf&uuml;hrlicher vorstellen. Anfangen werde ich mit:<br><br>
+ausf&uuml;hrlicher vorstellen.<br><br>
 <font color=blue>Slotmachine</font><br><br>
 Programmiert ist die Anwendung mit C++ in der Arduino IDE. Die Rechenleistung des RP2350 ist mehr als ausreichend, um die Bewegung der sich drehenden
 Walzen mit den Fr&uuml;chten fl&uuml;ssig und ruckelfrei darzustellen. Nat&uuml;rlich mussten einige Anpassungen gegen&uuml;ber einem richtigen
